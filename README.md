@@ -98,6 +98,17 @@ Out. de 2011 - Abr. de 2012
 - [Facebook](https://www.facebook.com/ertprs)
 - [Workana](https://www.workana.com/freelancer/7717ac326889fcded2b44dc6325d145b)
 
+## 📱 QR Codes
+
+### Adicionar no WhatsApp
+![Adicionar no WhatsApp](https://github.com/ertprs/ertprs/raw/main/whatsapp_qr.png)
+
+### Adicionar aos Contatos
+![Adicionar aos Contatos](https://github.com/ertprs/ertprs/raw/main/vcard_qr.png)
+
+### PIX
+![PIX](https://github.com/ertprs/ertprs/raw/main/pix_qr.png)
+
 Se você quiser me ajudar ou contribuir com uma doação, por favor, entre em contato pelo e-mail [ertprs_ubatuba@hotmail.com](mailto:ertprs_ubatuba@hotmail.com) ou via [WhatsApp](http://wa.me/5512997673301) para mais informações. Meu número PIX é 5512997673301.
 
 Obrigado por visitar meu perfil! 😊
