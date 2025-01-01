@@ -7,7 +7,7 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por programação e adoro trab
 - 🌱 Atualmente estou aprendendo e explorando novas linguagens de programação e frameworks.
 - 💼 Estou procurando colaborar em projetos de código aberto e contribuir para a comunidade.
 - 📫 Como me encontrar: [ertprs_ubatuba@hotmail.com](mailto:ertprs_ubatuba@hotmail.com) | [WhatsApp](http://wa.me/5512997673301)
-- 💬 Pergunte-me sobre qualquer coisa relacionada a desenvolvimento web, React, JavaScript, PHP, MySQL, Projeto Whaticket ou contribuições para código aberto.
+- 💬 Pergunte-me sobre qualquer coisa relacionada a desenvolvimento web, Python ou contribuições para código aberto.
 
 Profissional com mais de 15 anos de experiência em Tecnologia da Informação, com foco em implantação de sistemas ERP, migração de dados e suporte técnico. Atualmente Gerente de TI na Daxxi Tecnologia, responsável por liderar equipes, atender demandas de clientes e implementar soluções personalizadas. Possuo conhecimentos avançados em VPS Linux Ubuntu com gerenciador aapanel, além de configurar e gerenciar plataformas de CRM como PerfexCRM, Krayin CRM, Woofed CRM, Odoo, e sistemas de atendimento multiusuário como Whaticket, Chatwoot e Izing.
 
@@ -96,6 +96,7 @@ Out. de 2011 - Abr. de 2012
 - [LinkedIn](https://www.linkedin.com/in/patricio-silva-47201a138/)
 - [Instagram](https://www.instagram.com/ertprs/)
 - [Facebook](https://www.facebook.com/ertprs)
+- [Workana](https://www.workana.com/freelancer/7717ac326889fcded2b44dc6325d145b)
 
 Se você quiser me ajudar ou contribuir com uma doação, por favor, entre em contato pelo e-mail [ertprs_ubatuba@hotmail.com](mailto:ertprs_ubatuba@hotmail.com) ou via [WhatsApp](http://wa.me/5512997673301) para mais informações. Meu número PIX é 5512997673301.
 
